@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C11C&width=435&lines=HI%F0%9F%8C%9DHave+a+nice+day%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-- 🏫 就讀亞洲大學 商應係
+- 🏫 就讀亞洲大學 商應系
 - 👧 是一位大三的學生
 - 🎧 我的興趣是聽音樂、追劇
 
@@ -12,6 +12,7 @@
     </tr>
   </tbody>
 </table>
+<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=lin109022080&style=flat-square&&label=Profile+Views&color=50A1FF">
 
 ---
 
