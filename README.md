@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C11C&width=435&lines=HI%F0%9F%8C%9DHave+a+nice+day%F0%9F%91%8B" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=19D4F7&width=435&lines=%E5%97%A8%E5%97%A8%E5%97%A8~%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%9C%89%E5%BF%AB%E6%A8%82%E7%9A%84%E4%B8%80%E5%A4%A9%F0%9F%98%8A" alt="Typing SVG" /></a>
+
 - 🏫 就讀亞洲大學 商應系
 - 👧 是一位大三的學生
 - 🎧 我的興趣是聽音樂、追劇
